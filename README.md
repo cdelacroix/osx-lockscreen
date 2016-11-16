@@ -1,4 +1,6 @@
 # osx-lockscreen
+[![Build Status](https://travis-ci.org/cdelacroix/osx-lockscreen.svg?branch=master)](https://travis-ci.org/cdelacroix/osx-lockscreen)
+
 Simple command-line tool to lock OS X screen
 
 Confirmed to be working on OS X El Capitan version 10.11.2 (15C50)
